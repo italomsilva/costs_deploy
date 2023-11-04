@@ -1,0 +1,17 @@
+.select{
+    display: flex;
+    flex-direction: column;
+}
+
+.select label{
+    color: #222;
+    font-weight: 800;
+}
+
+.select select{
+    outline: none;
+    border: none;
+    margin-bottom: 1rem;
+    padding: 0.4rem;
+    color: #222222aa;;
+}
