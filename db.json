@@ -1,0 +1,29 @@
+{
+    "projects": [],
+    "categories": [
+        {
+            "id": "1",
+            "name": "Infra"
+        },
+        {
+            "id": "2",
+            "name": "Desenvolvimento Backend"
+        },
+        {
+            "id": "3",
+            "name": "Desenvolvimento Frontend"
+        },
+        {
+            "id": "4",
+            "name": "Planejamneto"
+        },
+        {
+            "id": "5",
+            "name": "Design"
+        },
+        {
+            "id": "6",
+            "name": "marketing"
+        }
+    ]
+}

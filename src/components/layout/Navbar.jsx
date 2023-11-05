@@ -8,22 +8,22 @@ function Navbar(){
             <Container>
                 <nav className={styles.nav}>
                     <li>
-                        <Link to='/'>
+                        <Link to='costs_deploy'>
                             <img src={logo} alt="logo react" />
                         </Link>
                     </li>
                     <ul>
                         <li>
-                            <Link to='/'>Home</Link>
+                            <Link to='costs_deploy'>Home</Link>
                         </li>
                         <li>
-                            <Link to='/company'>Empresa</Link>
+                            <Link to='costs_deploy/company'>Empresa</Link>
                         </li>
                         <li>
-                            <Link to='/contact'>Contato</Link>
+                            <Link to='costs_deploy/contact'>Contato</Link>
                         </li>
                         <li>
-                            <Link to='/projects'>Projetos</Link>
+                            <Link to='costs_deploy/projects'>Projetos</Link>
                         </li>
                     </ul>
                 </nav>

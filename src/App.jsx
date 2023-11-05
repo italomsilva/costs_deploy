@@ -15,11 +15,11 @@ function App(){
             <Navbar/>
             <Container customClass="customMain">
                 <Routes>
-                    <Route exact path='/' element={<Home />}/>
-                    <Route exact path='/company' element={<Company/>}/>
-                    <Route exact path='/contact' element={<Contact/>}/>
-                    <Route exact path='/newproject' element={<NewProject/>}/>
-                    <Route exact path='/projects' element={<Projects/>}></Route>
+                    <Route exact path='costs_deploy' element={<Home />}/>
+                    <Route exact path='costs_deploy/company' element={<Company/>}/>
+                    <Route exact path='costs_deploy/contact' element={<Contact/>}/>
+                    <Route exact path='costs_deploy/newproject' element={<NewProject/>}/>
+                    <Route exact path='costs_deploy/projects' element={<Projects/>}></Route>
                 </Routes>
             </Container>
             <Footer/>

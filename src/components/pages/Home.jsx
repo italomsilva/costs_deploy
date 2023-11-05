@@ -9,7 +9,7 @@ function Home(){
             <h1>Bem vindo ao <span>Costs</span></h1>
             <p>Comece a gerenciar seus projetos agora mesmo!</p>
             <p>
-                <BtnClassic road="/newproject" text="Criar Projeto"/>
+                <BtnClassic road="costs_deploy/newproject" text="Criar Projeto"/>
             </p>
             <div>
                 <img src={logo} alt="" />
